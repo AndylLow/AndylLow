@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm a Software Engineer in İstanbul. 
-Reach me through: recepeksi.19@gmmail.com
+Reach me through: recepeksi.19@gmail.com
